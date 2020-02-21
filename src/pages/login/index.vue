@@ -7,7 +7,7 @@
 			input {
 				padding: 0 10px;
 				line-height: 28px;
-			}
+			}·
 		}
 		button {
 			padding: 0 20px;
